@@ -16,21 +16,6 @@ A simple front-end clone of the Spotify web interface built using **HTML** and *
 ├── Spotify.html 
 ├── Spotify.css 
 ├── Assets/ 
-│ ├── backward_icon.png 
-│ └── forward_icon.png 
-│ └── card1img.jpeg
-│ └── card2img.jpeg
-│ └── card3img.jpeg
-│ └── card4img.jpeg
-│ └── card5img.jpeg
-│ └── library_icon.png
-│ └── logo.png
-│ └── play_musicbar.png
-│ └── player_icon1.png
-│ └── player_icon2.png
-│ └── player_icon3.png
-│ └── player_icon4.png
-│ └── player_icon5.png
 └── README.md
 ```
 
