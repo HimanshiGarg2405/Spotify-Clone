@@ -10,6 +10,8 @@ A simple front-end clone of the Spotify web interface built using **HTML** and *
 - 🖼️ Header, sidebar, content area, and music player footer
 
 ## 📁 Folder Structure
+
+```plaintext
   Spotify-Clone/
 ├── Spotify.html 
 ├── Spotify.css 
@@ -29,7 +31,8 @@ A simple front-end clone of the Spotify web interface built using **HTML** and *
 │ └── player_icon3.png
 │ └── player_icon4.png
 │ └── player_icon5.png
-└── README.md 
+└── README.md
+```
 
 ## 🛠️ Built With
 
